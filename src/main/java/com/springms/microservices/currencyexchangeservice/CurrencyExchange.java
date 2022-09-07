@@ -3,7 +3,6 @@ package com.springms.microservices.currencyexchangeservice;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-import jdk.jfr.Enabled;
 
 import java.math.BigDecimal;
 
